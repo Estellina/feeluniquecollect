@@ -1,0 +1,58 @@
+[
+    {
+        "review_rating": "5",
+        "review_title": "Lovely hand cream’",
+        "review_author": "Suzanne",
+        "review_date": "15 days ago  ",
+        "review_text": "Best hand cream I have used for a long time. Its better than Ceravie cream. Feels luxurious and leaves hands soft & supple. Fantastic value and I will defo buy again."
+    },
+    {
+        "review_rating": "5",
+        "review_title": "Great for eczema prone skin!",
+        "review_author": "Victoria",
+        "review_date": "4 months ago  ",
+        "review_text": "Bought this impulsively as I needed a hand cream that wouldn’t irritate my skin when I’m out and about, a happy impulse purchase indeed!\nMoisturises my hands very well leaving no stickiness or residue (even if my hands get sweaty later on that day).\nThis product has no noticeable fragrance (great for sensitive skin) but feels considerably nicer to put on that other creams.\nVery small tube but very reasonably priced so worth the money."
+    },
+    {
+        "review_rating": "5",
+        "review_title": "Great hand cream",
+        "review_author": "Julia",
+        "review_date": "6 months ago  ",
+        "review_text": "Really great hand cream. Quickly absorbed by skin, smooth to the touch and clearly moisturises."
+    },
+    {
+        "review_rating": "4",
+        "review_title": "Would buy again, good value",
+        "review_author": "Kelda",
+        "review_date": "6 months ago  ",
+        "review_text": "Good but a little greasy"
+    },
+    {
+        "review_rating": "5",
+        "review_title": "Great for dry hands",
+        "review_author": "Tulin",
+        "review_date": "7 months ago  ",
+        "review_text": "My hands are so dry and this cream is really nice and moisturising and smells lovely."
+    },
+    {
+        "review_rating": "4",
+        "review_title": "i like",
+        "review_author": "Sarkisova",
+        "review_date": "11 months ago  ",
+        "review_text": "good cream for everyday use"
+    },
+    {
+        "review_rating": "5",
+        "review_title": "Perfect to fix dry hands",
+        "review_author": "Tony",
+        "review_date": "a year ago  ",
+        "review_text": "This cream was perfect for me, after starting a job that requires constant washing up my hands went so dry, this put some life back into my hands."
+    },
+    {
+        "review_rating": "5",
+        "review_title": "Love the feeling of this lotion!!",
+        "review_author": "jarsiann",
+        "review_date": "a year ago  ",
+        "review_text": "[This review was collected as part of a promotion.] This lotion is amazing!! As a person who suffers from dry hands, this lotion is amazing. It helps my cuticles from breaking as well. My hands feel so hydrated and are not achy and painful like they usually are. I would definitely recommend this to others!!"
+    }
+]
